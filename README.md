@@ -14,11 +14,11 @@ than 20 years of technical writing, editing, and publication design experience, 
 
 My research interests include:
 
-* Visual rhetoric/visual literacy :camera:
-* Data visualization :bar_chart:
-* Children’s rhetorical agency :girl:
-* Sports communication :soccer:
-* Art and creativity in technical communication :art:
+* :camera: Visual rhetoric/visual literacy 
+* :bar_chart: Data visualization 
+* :girl: Children’s rhetorical agency 
+* :soccer: Sports communication 
+* :art: Art and creativity in technical communication 
 
 I have published articles in *Technical Communication* and *IEEE ProComm*. My first book was [published by Routledge earlier this year.](https://www.routledge.com/Violence-Silence-and-Rhetorical-Cultures-of-Champion-Building-in-Sports/Hardesty/p/book/9781032382739) 
 
